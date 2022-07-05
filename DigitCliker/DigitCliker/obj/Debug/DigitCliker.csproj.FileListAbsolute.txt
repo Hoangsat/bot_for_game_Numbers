@@ -1,0 +1,11 @@
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\bin\Debug\DigitCliker.exe.config
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\bin\Debug\DigitCliker.exe
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\bin\Debug\DigitCliker.pdb
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.Form1.resources
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.exe
+C:\Users\hoang\OneDrive\Документы\Project\bot_for_game_Numbers\DigitCliker\DigitCliker\obj\Debug\DigitCliker.pdb
