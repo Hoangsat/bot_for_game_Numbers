@@ -85,6 +85,7 @@
             this.button_repeat.TabIndex = 4;
             this.button_repeat.Text = "9 time";
             this.button_repeat.UseVisualStyleBackColor = true;
+            this.button_repeat.Click += new System.EventHandler(this.button_repeat_Click);
             // 
             // Form1
             // 
